@@ -1,0 +1,4 @@
+gspread
+black
+pytest
+pytest-mock
